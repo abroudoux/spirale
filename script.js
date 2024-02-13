@@ -1,3 +1,5 @@
+console.log("js on");
+
 const words = "A life without love is a blatant waste";
 const ANIMATION_DURATION = 2000;
 
